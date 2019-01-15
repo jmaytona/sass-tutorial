@@ -1,0 +1,5 @@
+SMACSS - Scalable and Modular Architecture for CSS
+https://smacss.com/
+
+-Visit the site and go to Categorizing CSS Rules for reference and guide for layout.
+-syntax in terminal for sass to run (sass --watch app.sass:app.css) type this on terminal
